@@ -1,0 +1,19 @@
+README.md
+  s_bac244f497d48d::t_afee2d955615a3 138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9b7c38ba286480999e3f51a0ed6b09bb0b19e933",
+  "prompts": {},
+  "sessions": {
+    "s_bac244f497d48d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b86c932c-f919-4021-adb1-de33fc63f4b8",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Chris Acker <christopheracker1@gmail.com>"
+    }
+  }
+}
